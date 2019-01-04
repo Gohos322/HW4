@@ -1,7 +1,7 @@
 '''
 Created on 04 gen 2019
 
-@author: Lorenzo
+@author: Lorenzo Guenci (Student ID 1532651)
 '''
 
 def countNT (dna):
